@@ -10,6 +10,7 @@ public class DemowebfluxApplication {
         SpringApplication.run(DemowebfluxApplication.class, args);
         System.out.println("这是dev");
         System.out.println("我在疯狂测试");
+        System.out.println("还在测试？？？");
     }
 
 }
